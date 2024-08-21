@@ -148,14 +148,13 @@ In summary, issues are effective for tracking problems and managing tasks, while
 ## Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
 
 
-| **Aspect**             | **Challenges**                                                          | **Best Practices**                                                     |
-|------------------------|-------------------------------------------------------------------------|-----------------------------------------------------=------------------|
-| **Merge Conflicts**    | Conflicts occur when changes overlap in branches.                       | Communicate with your team and use Git tools to resolve conflicts.     |
-| **Commit Messages**    | Unclear or vague messages make history hard to follow.                  | Write clear, descriptive commit messages explaining what and why.      |
-| **Branch Management**  | Too many or poorly named branches can confuse the team.                 | Use descriptive branch names and delete old or merged branches.        |
-| **Syncing Changes**    | Not pulling updates regularly leads to outdated code.                   | Frequently pull changes from the main branch to stay updated.          |
-| **Git Commands**       | New users might struggle with Git commands and concepts.                | Learn Git basics and consider using Git GUI tools for ease.            |
-| **Reviewing Pull Requests** | Inadequate reviews can lead to poor-quality code being merged.     | Thoroughly review pull requests for quality and issues before merging. |
-| **Team Communication** | Poor communication can lead to misunderstandings and duplicated work.   | Keep team members informed and discuss changes openly.                 |
-| **Documentation**      | Lack of context can make it hard to understand changes.                 | Document your work in README files and issue descriptions.             |
-
+| **Aspect**             | **Challenges**                                      | **Best Practices**                                   |
+|------------------------|-----------------------------------------------------|------------------------------------------------------|
+| **Merge Conflicts**    | Conflicts occur when changes overlap in branches.  | Communicate with your team and use Git tools to resolve conflicts. |
+| **Commit Messages**    | Unclear or vague messages make history hard to follow. | Write clear, descriptive commit messages explaining what and why. |
+| **Branch Management**  | Too many or poorly named branches can confuse the team. | Use descriptive branch names and delete old or merged branches. |
+| **Syncing Changes**    | Not pulling updates regularly leads to outdated code. | Frequently pull changes from the main branch to stay updated. |
+| **Git Commands**       | New users might struggle with Git commands and concepts. | Learn Git basics and consider using Git GUI tools for ease. |
+| **Reviewing Pull Requests** | Inadequate reviews can lead to poor-quality code being merged. | Thoroughly review pull requests for quality and issues before merging. |
+| **Team Communication** | Poor communication can lead to misunderstandings and duplicated work. | Keep team members informed and discuss changes openly. |
+| **Documentation**      | Lack of context can make it hard to understand changes. | Document your work in README files and issue descriptions. |
